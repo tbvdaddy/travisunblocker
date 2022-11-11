@@ -1,0 +1,8 @@
+newrelic_agent.log
+.DS_Store
+node_modules/
+.env
+*.log
+.nyc_output/
+.vscode/
+examples/*/package-lock.json
